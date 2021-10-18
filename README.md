@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub 
+# :wave: The Basics of GitHub [MURAT BİBEROĞLU, 150200037]
 
 ## 🤓 Course overview and learning outcomes 
 
